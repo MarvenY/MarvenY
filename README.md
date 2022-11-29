@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![Ninique corp enthusiast views](https://visitor-badge.glitch.me/badge?page_id=MarvenY)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MarvenY&label=Ninique%20corp%20enthusiast%20views&countColor=%23263759)
