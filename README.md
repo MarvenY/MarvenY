@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=MarvenY&label=Ninique%20corp%20enthusiast%20views&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarvenY&countColor=%23263759&style=flat-square)
