@@ -34,8 +34,8 @@ Contacts
 My Computer
 </h1>
 <!-- My PC specs -->
-<img src = "[https://o.remove.bg/downloads/d57ccc7d-0c3e-4b6f-8351-e4e686d81fdd/computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png](https://o.remove.bg/downloads/fc708926-3649-4c31-86ab-a3dc4560c98f/image-removebg-preview.png)" />
 
+<img src = "https://o.remove.bg/downloads/fc708926-3649-4c31-86ab-a3dc4560c98f/image-removebg-preview.png" />
 <p>
 <img src = "https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
