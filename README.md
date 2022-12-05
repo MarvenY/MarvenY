@@ -1,5 +1,7 @@
-### Hey there, my name is Marven👋
+<h1>
 
+Hey there, my name is Marven👋
+</h1>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarvenY&countColor=%23263759&style=flat-square)
 <!--
 **MarvenY/MarvenY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Contacts
+<h2>
+Contacts
+</h2>
 <a href="mailto:marven_younes@hotmail.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
@@ -25,8 +29,8 @@ Here are some ideas to get you started:
 <a href= "https://stackoverflow.com/users/14737401/always-greg">
  <img src = https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
 </a>
-<h1>
-### My Computer
+<h3>
+My Computer
 </h1>
 <!-- My PC specs -->
 <img src = "https://o.remove.bg/downloads/d57ccc7d-0c3e-4b6f-8351-e4e686d81fdd/computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png" />
