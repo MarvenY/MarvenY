@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <a href= "https://stackoverflow.com/users/14737401/always-greg">
  <img src = https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
 </a>
+<p>
 ### My Computer
+</p>
 <!-- My PC specs -->
 <img src = "https://o.remove.bg/downloads/d57ccc7d-0c3e-4b6f-8351-e4e686d81fdd/computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png" />
 
