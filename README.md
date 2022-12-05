@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 </a>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarvenY&countColor=%23263759&style=flat-square)
+
+
+<img src = "https://o.remove.bg/downloads/d57ccc7d-0c3e-4b6f-8351-e4e686d81fdd/computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png" />
