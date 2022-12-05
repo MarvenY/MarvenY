@@ -32,7 +32,7 @@ Contacts
 </a>
 <h3>
 My Computer
-</h1>
+</h3>
 <!-- My PC specs -->
 
 <img src = "https://o.remove.bg/downloads/fc708926-3649-4c31-86ab-a3dc4560c98f/image-removebg-preview.png" />
@@ -54,7 +54,9 @@ My Computer
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-<p>
+<h4>
 Knowledge in 
+</h4>
+<p>
 <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
