@@ -1,11 +1,10 @@
-<h1 align = "center>
+<h1 align="center">Hey there, my name is Marven👋</h1>
 
-Hey there, my name is Marven👋
-</h1>
 
-<h1>
+
+<h2>
  About me :
-</h1>
+</h2>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarvenY&countColor=%23263759&style=flat-square)
 <!--
