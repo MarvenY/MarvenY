@@ -8,6 +8,7 @@
 <p>
   I'm currently pursuing a Bachelors degree in Computer Science at Notre Dame Univeristy (NDU). I spend most of my free time coding and developing software and automation related programs. I’m a hardworking person and I’m always open for new opportunities and learn more about the mentioned subjects, since acquiring experience is always my priority. 
 </p>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarvenY&countColor=%23263759&style=flat-square)
 
 <h2>
