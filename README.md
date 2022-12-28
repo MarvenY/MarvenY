@@ -38,7 +38,7 @@ My Computer
 </h3>
 <!-- My PC specs -->
 
-<img src = "computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png" />
+<img src = "computer-design-template-19fcbb354d2bd7bde0059de2c0ac1cca_screen-removebg-preview.png" allign = "center"/>
 <p>
 <img src = "https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
