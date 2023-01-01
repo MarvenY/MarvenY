@@ -13,7 +13,7 @@
 
 
 <h2>
-Contacts
+Contacts :
 </h2>
 <a href="mailto:marven_younes@hotmail.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -36,10 +36,14 @@ My Computer :
 <img src = "https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img src = "https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-Tools :
+
+</p>
+
+
+### Tools :
+<p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
- 
 </p>
 <!-- Coding Languages -->
 
