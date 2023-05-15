@@ -17,5 +17,4 @@
 
 ### Github Stats :
 <p align ="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=MarvenY&theme=tokyonight&background=000000)"></p>
-
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marveny&show_icons=true&theme=dark&locale=en" alt="marveny" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marveny&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="marveny" /></p>
